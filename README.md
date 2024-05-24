@@ -1,6 +1,6 @@
-# App
+# Golfinho - Um jogo de carta
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+Projeto para a tentativa de criacao do jogo golf e golfinho usando um baralho de 52 cartas.
 
 ## Development server
 
